@@ -12,7 +12,7 @@ Para a realização do projeto utilizei os seguintes arquivos:
 
 Nas primeiras linhas foi realizada a instanciação dos módulos mais importantes como fs e express, o middleware de persistência do json para conseguirmos pegar os requests, e por último, o readFile "heroes" para ser manipulado durante o desenvolvimento.
 
-_CRUD_
+### **CRUD**
 
 _Get_ : Foi desenvolvido um total de 3 gets que tinham respectivamente os seguintes objetivos. Definir uma rota padrão para sinalizar a entrada do usuário no servidor (getAcess), outra rota para retornar todo o conteúdo do array (getAll), e por fim uma rota para resgatar um colecionável específico a partir de um Id na URL(getHero).
 
