@@ -1,1 +1,92 @@
-[{"id":0,"name":"Spider Man","type":"Action Figure","price":"2200.00"},{"id":1,"name":"Thor","type":"Funko Pop","price":"140.00"},{"id":2,"name":"Black Panther","type":"Lego Key Chain","price":"50.00"},{"id":3,"name":"Iron Man","type":"Action Figure","price":"3500.00"},{"id":4,"name":"Batman","type":"Lego Key Chain","price":"50.00"},{"id":5,"name":"Aquaman","type":"Funko Pop","price":"150.00"},{"id":6,"name":"Super Man","type":"Action Figure","price":"2900.00"},{"id":7,"name":"Wonder Woman","type":"Funko Pop","price":"130.00"},{"id":8,"name":"DeadPool","type":"Lego Key Chain","price":"30.00"},{"id":9,"name":"Loki","type":"Action Figure","price":"1300.00"},{"id":10,"name":"Captain America","type":"Funko Pop","price":"170.00"},{"id":11,"name":"Star Lord","type":"Action Figure ","price":"1870.00"},{"id":12,"name":"Venom","type":"Lego Key Chain","price":"45.00"},{"id":13,"name":"Hulk","type":"Action Figure","price":"4700.00"},{"id":14,"name":"Joker","type":"Funko Pop","price":"150.00"}]
+[
+  {
+    "id":0,
+    "name":"Spider Man",
+    "type":"Action Figure",
+    "price":"2200.00"
+  },
+  {
+    "id":1,
+    "name":"Thor",
+    "type":"Funko Pop",
+    "price":"140.00"
+  },
+  {
+    "id":2,
+    "name":"Black Panther",
+    "type":"Lego Key Chain",
+    "price":"50.00"
+  },
+  {
+    "id":3,
+    "name":"Iron Man",
+    "type":"Action Figure",
+    "price":"3500.00"
+  },
+  {
+    "id":4,
+    "name":"Batman",
+    "type":"Lego Key Chain",
+    "price":"50.00"
+  },
+  {
+    "id":5,
+    "name":"Aquaman",
+    "type":"Funko Pop",
+    "price":"150.00"
+  },
+  {
+    "id":6,
+    "name":"Super Man",
+    "type":"Action Figure",
+    "price":"2900.00"
+  },
+  {
+    "id":7,
+    "name":"Wonder Woman",
+    "type":"Funko Pop",
+    "price":"130.00"
+  },
+  {
+    "id":8,
+    "name":"DeadPool",
+    "type":"Lego Key Chain",
+    "price":"30.00"
+  },
+  {
+    "id":9,
+    "name":"Loki",
+    "type":"Action Figure",
+    "price":"1300.00"
+  },
+  {
+    "id":10,
+    "name":"Captain America",
+    "type":"Funko Pop",
+    "price":"170.00"
+  },
+  {
+    "id":11,
+    "name":"Star Lord",
+    "type":"Action Figure ",
+    "price":"1870.00"
+  },
+  {
+    "id":12,
+    "name":"Venom",
+    "type":"Lego Key Chain",
+    "price":"45.00"
+  },
+  {
+    "id":13,
+    "name":"Hulk",
+    "type":"Action Figure",
+    "price":"4700.00"
+  },
+  {
+    "id":14,
+    "name":"Joker",
+    "type":"Funko Pop",
+    "price":"150.00"
+  }
+]
