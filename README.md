@@ -4,9 +4,10 @@
 
 A idéia do desafio era realizar uma API com os comandos básicos de CRUD (Create, Read, Update e Delete), recebendo dados de um arquivo json ou de um banco de dados (opcional). A idéia do meu projeto foi criar uma "loja" de colecionáveis de super heróis, onde todos os dados dentro do arquivo json seriam os produtos, com seus respectivos id's, nomes, tipos e preços. E por último, o tipo de acesso seria dedicado ao "dono da loja", que poderia realizar os comandos para a manipulação dos produtos no momento em que quisesse!
 
-Para a realização do projeto utilizei os seguintes arquivos:
-**index.js** : Para armazenar todo o código
-**data.json** : Para guardar o array com o conteúdo da loja
+Para a realização do projeto utilizei os seguintes arquivos:  
+**index.js** : Para armazenar todo o código  
+**data.json** : Para guardar o array com o conteúdo da loja  
+**OBS** : Como não é recomendado subir os commits de criação do node_modules, coloquei essa pasta no meu gitignore. portanto, para instalar essa pasta que é essencial, você deve rodar no terminal _"npm install"_.
 
 ## **INDEX.JS**
 
